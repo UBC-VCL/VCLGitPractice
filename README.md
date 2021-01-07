@@ -13,6 +13,7 @@ This is a practice Repo for VCL Members to play around with git.
 
 Yay Life rocks
 
+Matthew Cam,
 Vivian Jin,
 JNGU,
 Victoria Loewen,
